@@ -1,6 +1,6 @@
 {
   "DASHBOARD_HEADLINE"                    : "Note",
-  "DASHBOARD_SUBHEADLINE"                 : "Please be aware that changes in the web portal could take up a while before come effective.",
+  "DASHBOARD_SUBHEADLINE"                 : "Please be aware changes in the web portal are not immediately effective. They will depend upon the settings of Heroku Connect.",
 
   "DASHBOARD_BOX_PERSONAL_DATA_HEADLINE"  : "Personal Data",
   "DASHBOARD_BOX_PERSONAL_DATA_CONTENT"   : "Show and edit your personal data, e.g. name, address, email or phone here.",
